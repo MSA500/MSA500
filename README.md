@@ -20,9 +20,9 @@
 
 CS undergrad at FAST-NUCES building end-to-end AI and data systems. I work across the full pipeline, from data wrangling and model training to deploying AI through real backends and frontends.
 
-- Building end-to-end ML pipelines — regression, classification and neural nets from scratch
-- Focused on AI engineering — model deployment, FastAPI backends and full-stack AI apps
-- Passionate about data analysis — EDA, feature engineering and predictive modeling
+- Building end-to-end ML pipelines - regression, classification and neural nets from scratch
+- Focused on AI engineering - model deployment, FastAPI backends and full-stack AI apps
+- Passionate about data analysis - EDA, feature engineering and predictive modeling
 - Looking for internships in Data Analytics, AI Engineering or ML
 - Ask me about Python, pandas, scikit-learn, FastAPI or Next.js
 - I learn faster by shipping projects than reading theory
